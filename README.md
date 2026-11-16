@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/opencode-3?utm_medium=integration&utm_source=button&utm_campaign=opencode)
+
 # OpenCode on Railway
 
 This repo packages the official [OpenCode](https://github.com/anomalyco/opencode) image for one-click deployment on [Railway](https://railway.com). OpenCode is an open-source AI coding agent. This template runs its web UI and server, so you can code with it from any browser.
