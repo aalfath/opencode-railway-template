@@ -8,7 +8,7 @@ This repo packages the official [OpenCode](https://github.com/anomalyco/opencode
 
 | Service | Builds from | Version |
 |---|---|---|
-| `OpenCode` | this repo (`Dockerfile`) | `ghcr.io/anomalyco/opencode:2.3.0`, pinned by digest `sha256:998e3e184c650e603d8bacb5cbeaeb090837078262c25521a7136b0375d2b652` |
+| `OpenCode` | this repo (`Dockerfile`) | `ghcr.io/anomalyco/opencode:2.3.2`, pinned by digest `sha256:be07cc4afd6d668d91b77accf1bc4338c87b39fbacc0a61666eb003781015f5a` |
 
 It's one service with a Railway domain and one volume at `/data`:
 
