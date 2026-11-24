@@ -1,6 +1,6 @@
 # OpenCode for Railway: https://github.com/aalfath/opencode-railway-template
 # Official image, pinned by version and digest. Bump both together (see CHANGELOG.md).
-FROM ghcr.io/anomalyco/opencode:2.3.0@sha256:998e3e184c650e603d8bacb5cbeaeb090837078262c25521a7136b0375d2b652
+FROM ghcr.io/anomalyco/opencode:2.3.2@sha256:be07cc4afd6d668d91b77accf1bc4338c87b39fbacc0a61666eb003781015f5a
 
 # Tools the agent needs for real work: git, a shell, SSH for git remotes, Node.js and Python for MCP servers.
 RUN apk add --no-cache bash git git-lfs openssh-client curl jq ca-certificates nodejs npm python3 github-cli
